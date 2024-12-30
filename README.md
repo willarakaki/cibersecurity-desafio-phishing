@@ -18,4 +18,7 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![resultadodesafio](https://github.com/user-attachments/assets/1217cc02-5d83-4520-b694-9a23fe7e035f)
+
+Não funciona devido a atual defesa contra scripts maliciosos do facebook.
+
